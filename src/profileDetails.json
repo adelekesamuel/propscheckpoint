@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "fullname": "Sameul Adeleke",
+      "Bio": "Software Engineer",
+      "profession": "React developer"
+    },
+    {
+      "id": 2,
+      "fullname": "Ayo",
+      "Bio": "engineer",
+      "profession": "React developer"
+    },
+    {
+      "id": 3,
+      "fullname": "Shade opeyemi",
+      "Bio": "Developer",
+      "profession": "React developer"
+    }
+]
